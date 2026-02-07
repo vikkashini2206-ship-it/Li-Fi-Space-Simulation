@@ -2,5 +2,4 @@
 A python simulation of li-fi communication in a noisy space environment
 
 
-![Li-Fi Simulation Results]
-(Screenshot%2026-02-07%111816.png)
+![Li-Fi Simulation Results](Screenshot(1).png)
